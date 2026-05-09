@@ -7,7 +7,7 @@ set -euo pipefail
 
 # Inputs and paths
 passed_path="${1:-}"
-cache_dir="$HOME/.cache/swww/"
+cache_dir="$(ls -dt "$HOME"/.cache/awww/*/ 2>/dev/null | head -1)"
 rofi_link="$HOME/.config/rofi/.current_wallpaper"
 wallpaper_current="$HOME/.config/hypr/wallpaper_effects/.wallpaper_current"
 read_cached_wallpaper() {
@@ -19,8 +19,8 @@ read_cached_wallpaper() {
 
 read_wallpaper_from_query() {
   local monitor="$1"
-  swww query | awk -v mon="$monitor" '
-    /^Monitor/ {
+  awww query | awk -v mon="$monitor" '
+    {
       cur=$2
       gsub(":", "", cur)
     }

@@ -1,0 +1,170 @@
+[34m[INFO](B[m Nvidia GPU detected. Setting up proper env's and configs
+[34m[INFO](B[m Bibata-Hyprcursor directory detected. Activating Hyprcursor....
+[33m[NOTE](B[m kb_layout [35mpl(B[m configured in settings.
+[32m[OK](B[m Default editor set to [35mnvim(B[m.
+[32m[OK](B[m You have chosen ≥ 1440p resolution.
+[33m[NOTE](B[m You chose not to change to 12H format.
+[32m[OK](B[m Rainbow borders are now disabled.
+[32m[OK](B[m - Copy completed for [33mfastfetch(B[m
+[33m[NOTE](B[m - Skipping [33mkitty(B[m
+[33m[NOTE](B[m - Backed up rofi to /home/piotr/.config/rofi-backup-back-up_0802_1507.
+[32m[OK](B[m - Replaced rofi with new configuration.
+[32m[OK](B[m - Copy completed for [33mswaync(B[m
+[33m[NOTE](B[m - Backed up waybar to /home/piotr/.config/waybar-backup-back-up_0802_1507.
+Copying file /home/piotr/.config/waybar-backup-back-up_0802_1507/style/style-dark.css to /home/piotr/.config/waybar/style/
+Copying file /home/piotr/.config/waybar-backup-back-up_0802_1507/style/style.css to /home/piotr/.config/waybar/style/
+[32m[OK](B[m Some [35mwallpapers(B[m copied successfully!
+[33m[NOTE](B[m Current wallpaper applied as default SDDM background
+[32m[OK](B[m Wallpapers downloaded successfully.
+cp: error writing '/home/piotr/Pictures/wallpapers/Anime-Girl-Rain.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Anime-Girl1.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Anime-Girl2.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Anime-Girl3.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Anime-Girl4.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Anime-Girl5.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Anime-Japan-Street.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Anime-Purple-eyes.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Anime-Room.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Arcade_decay_red.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Arch-chan_to.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Backyard.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Beer-Girl.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Bonsai-Plant.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Buildings.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Candle-Photo.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/City-Night.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/City-Rain.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/City-Rainy-Night.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Classroom.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Coffee-1.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Coffee-2.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Concept-Japanese house.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Courtside-Sunset.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Crater.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/CuteCat.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Dark_Nature.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Dark_window.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Dreamy-Aesthetic-Home-Under-Moonlight.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Dynamic-Wallpapers/Dark/City_dark.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Dynamic-Wallpapers/Dark/Dessert-Dark.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Dynamic-Wallpapers/Dark/Forest-Dark.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Dynamic-Wallpapers/Dark/Fuji-Dark.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Dynamic-Wallpapers/Dark/Garden-Dark.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Dynamic-Wallpapers/Dark/Lady-Dark.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Dynamic-Wallpapers/Dark/Mountain_dark.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Dynamic-Wallpapers/Dark/Riverside-Dark.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Dynamic-Wallpapers/Dark/Summer-Scene-Dark.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Dynamic-Wallpapers/Dark/Tree_dark.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Dynamic-Wallpapers/Dark/Village-Dark.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Dynamic-Wallpapers/Dark/highway_dark.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Dynamic-Wallpapers/Dark/japan-street-Dark.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Dynamic-Wallpapers/Light/City_light.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Dynamic-Wallpapers/Light/Dessert_light.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Dynamic-Wallpapers/Light/Forest-Light.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Dynamic-Wallpapers/Light/Fuji_light.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Dynamic-Wallpapers/Light/Garden-Light.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Dynamic-Wallpapers/Light/Lady-Light.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Dynamic-Wallpapers/Light/Mountain_light.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Dynamic-Wallpapers/Light/Riverside_light.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Dynamic-Wallpapers/Light/Summer-Scene-Light.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Dynamic-Wallpapers/Light/Tree_light.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Dynamic-Wallpapers/Light/Village-Light.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Dynamic-Wallpapers/Light/highway_light.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Dynamic-Wallpapers/Light/japan-street-Light.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Dynamic-Wallpapers/Light/kitty_light.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Evangelion.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Fantasy - Mountain Lake.jpeg': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Fantasy - Mountain Sky.jpeg': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Fantasy - Sunset.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Fantasy-Autumn.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Fantasy-Garden.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Fantasy-Hongkong.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Fantasy-IcyMountain.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Fantasy-Japanese-Street.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Fantasy-Lake1.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Fantasy-Lake2.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Fantasy-Lake3.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Fantasy-Landscape1.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Fantasy-Landscape2.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Fantasy-Landscape3.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Fantasy-Lanscape-Night.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Fantasy-Medieval_Travern.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Fantasy-Mountain.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Fantasy-Snow-Valley.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Fantasy-Waterfall.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Flower-1.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Flower-2.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Flower-3.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Fog-Forest-Everforest.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Game-GTA.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Garage.jpg': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/IT_guy.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Lady.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Lake.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Linux-user-Room.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Lofi - Anime Girl Balcony.jpeg': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Lofi - Anime Girl Coder.jpeg': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Lofi - Anime Girl.jpeg': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Lofi - Chill Room.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Lofi - Chill Room2.jpeg': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Lofi - Study.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Lofi-Anime-Room.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Lofi-Cafe1.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Lofi-Cafe2.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Lofi-Computer.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Lofi-Desktop-Man-Studying.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Lofi-Kitchen.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Lofi-Room.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Lofi-Urban-Nightscape.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Lofi_Cat.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Lowpoly_Street.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Manga-Girl-Rain.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Manga-Portal.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Manga-Shrine.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Mecha-Nostalgia.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Messy-Room.jpg': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Minimal_Squares.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Mountain.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Nature - Concept Butterflies.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Nature - Flower.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Nature - Lake.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Nature - Waterfall.jpg': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Nature.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Night-City.jpg': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Night_City.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Northern Lights1.jpg': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Northern Lights2.jpg': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Northern Lights4.jpg': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Northern Lights5.jpg': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Northern Lights6.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Northern Lights7.jpg': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Pastel-Window.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Patterns.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Red_Eclipse.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Relaxed_Mario.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Resthouse.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Retro - Programmer.jpeg': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Riding in a bus.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/River.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Scifi-Room.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Space-Nebula.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Staircase.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Street-1.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Street-2.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Study-table.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Summer-Mojito.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Sun-Setting-Horizon.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Sunset-Forrest.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Sunset-room.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Techno-Geek.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Tokyo_Pink.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Tower-Night.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/True Love.jpg': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Under_Starlit_Sky.png': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Video Game - The Blackstreets.jpeg': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/Wet-Road.jpg': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/anime-wall.jpg': No space left on device
+cp: error writing '/home/piotr/Pictures/wallpapers/girl-laying-down.jpg': No space left on device
+[31m[ERROR](B[m Copying wallpapers failed
+[33m[NOTE](B[m You chose not to download additional wallpapers.
+./copy.sh: line 1121: wallust: command not found
